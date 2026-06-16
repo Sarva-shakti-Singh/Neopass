@@ -1,0 +1,49 @@
+# Node modules
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# OS Files
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+*~
+
+# IDE & Editor
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+.eslintcache
+.prettierignore
+
+# Build & Distribution
+dist/
+build/
+*.zip
+*.tar.gz
+*.rar
+
+# Environment Variables
+.env
+.env.local
+.env.development
+.env.production
+
+# Logs
+logs/
+*.log
+
+# Temp Files
+temp/
+tmp/
+*.tmp
+
+# Dependencies Lock files (optional, for reproducible builds)
+# package-lock.json
+# yarn.lock
+
+# Archives created by build script
+NeoPass-*.zip
+NeoPass-archive/
